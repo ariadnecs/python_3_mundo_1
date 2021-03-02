@@ -7,6 +7,6 @@ print('Uma letra/palavra ou número?', v.isalnum())
 print('Você digitou alguma letra/palavra?', v.isalpha())
 print('O que você digitou tem somente letras maiúsculas?', v.isupper())
 print('O que você digitou tem somente letras minúsculas?', v.islower())
-print('É um título?', v.istitle())
+print('É um título (capitalizada)?', v.istitle())
 print('É um espaço???', v.isspace())
 print('O tipo primitivo digitado é:', type(v)) #aqui sempre vai mostrar string, acho...
