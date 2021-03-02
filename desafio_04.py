@@ -3,7 +3,7 @@
 v = input('Digite algo:')
 print('Você digitou um número?', v.isnumeric())
 print('São números entre 0 e 9?', v.isdigit())
-print('Uma letra/palavra ou número?', v.isalnum())
+print('Um texto ou número?', v.isalnum())
 print('Você digitou alguma letra/palavra?', v.isalpha())
 print('O que você digitou tem somente letras maiúsculas?', v.isupper())
 print('O que você digitou tem somente letras minúsculas?', v.islower())
