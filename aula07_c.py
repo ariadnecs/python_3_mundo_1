@@ -2,7 +2,7 @@
 n1 = float(input('Digite um número: '))
 n2 = float(input('Digite mais um número: '))
 s = n1 + n2
-su = n1 + n2
+su = n1 - n2
 m = n1 * n2
 d = n1 / n2
 e = n1 ** n2
