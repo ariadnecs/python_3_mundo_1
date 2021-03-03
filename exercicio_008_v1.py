@@ -1,0 +1,2 @@
+m = float(input('Digite uma distância em metros: '))
+print('A distância digitada foi {}m. \nEla equivale a: \n{:>25.2f}km \n{:>25.2f}hm \n{:>24.2f}dam \n{:>25.2f}dm \n{:>25.2f}cm \n{:>25.2f}mm'.format(m, m / 1000, m / 100, m / 10, m * 10, m * 100, m * 1000))
