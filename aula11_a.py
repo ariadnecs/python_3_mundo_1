@@ -1,0 +1,11 @@
+print('\033[1;30m-------------\033[m')# TEXTO PRETO
+print('\033[1;31;40mOlá mundo\033[m')# TEXTO VERMELHO
+print('\033[1;32;40mTESTE\033[m')# TEXTO VERDE
+print('\033[1;33;40mAMARELO\033[m')# TEXTO AMARELO
+print('\033[1;34;40mAZUL\033[m')# TEXTO AZUL
+print('\033[1;35;40mROXO\033[m')# TEXTO ROXO
+print('\033[1;36;40mCIANO\033[m')# TEXTO CIANO
+print('\033[1;37;40mCINZA\033[m')# TEXTO CINZA
+print('\033[1;38;40m?????????????\033[m')# TEXTO BRANCO E FUNDO CINZA...NÃO ENTENDI PQ
+print('\033[1;39;40m-----FIM-----\033[m')# TEXTO BRANCO
+
